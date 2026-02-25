@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Ratnesh1007" width="160" style="border-radius:50%; border:4px solid #9D4EDD;" />
+</p>
 <h1 align="center">Hi 👋, I'm Ratnesh Singh</h1>
 <h3 align="center">3rd Year BTech CSE | Java • Python • Full Stack Learner</h3>
 
