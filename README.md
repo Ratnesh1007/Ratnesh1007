@@ -42,3 +42,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ratnesh1007&theme=radical" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ratnesh1007/Ratnesh1007/output/github-contribution-grid-snake-dark.svg" />
+</p>
