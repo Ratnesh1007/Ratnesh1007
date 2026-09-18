@@ -27,22 +27,20 @@
 ```yaml
 Developer Profile:
   Name: Ratnesh Singh
-  Role: Computer Science Engineering Student (3rd Year BTech)
+  Degree: Bachelor of Technology - Computer Science & Engineering (3rd Year)
   Location: India 🇮🇳
-  Primary Tech: Python, Machine Learning, Java, Web Development
-  Current Focus: Natural Language Processing (NLP) & AI Application Development
-  Hobbies: Building AI tools, solving coding problems, exploring tech architectures
+  Primary Stack: Python, Machine Learning, Java, Web Engineering
+  Current Focus: Natural Language Processing (NLP) & Intelligent Web Apps
 ```
 
-* 🔭 Currently working on **[Emotion Analysis AI](https://github.com/Ratnesh1007/Emotion-Analysis-AI)** (86.16% accuracy NLP emotion classifier with Streamlit UI).
-* 🧠 Passionate about **Machine Learning, Natural Language Processing, and Data Science**.
-* ☕ Deepening expertise in **Java, Object-Oriented Programming, and Data Structures**.
-* 🌐 Exploring **Full-Stack Web Engineering** and cloud deployments.
-* 💬 Ask me about **Python, Scikit-Learn, Sentiment Analysis, and Streamlit**.
+* 🔭 Currently building **[Emotion Analysis AI](https://github.com/Ratnesh1007/Emotion-Analysis-AI)** (86.16% accuracy NLP emotion classifier with Streamlit UI).
+* 🧠 Deeply passionate about **Machine Learning, Natural Language Processing, and Data Science**.
+* ☕ Practicing **Java Data Structures, Algorithms, and Object-Oriented Design**.
+* 🌐 Building interactive **Web Applications using Streamlit & Python Backend**.
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+## 🛠️ Tech Stack & Skillset
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,6 +68,19 @@ Developer Profile:
 
 ---
 
+## ⚡ Skill Proficiency & Core Strengths
+
+```text
+Python & Data Manipulation    [========================================] 85%
+Machine Learning & Scikit     [======================================  ] 80%
+Text Processing & NLP         [======================================  ] 80%
+Streamlit & Web Interfaces    [======================================  ] 80%
+Java & OOP Fundamentals       [====================================    ] 75%
+SQL & Relational Databases    [==================================      ] 70%
+```
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -82,33 +93,35 @@ Developer Profile:
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 🎓 Education & Learning Journey
+
+- 🏫 **B.Tech in Computer Science & Engineering** (3rd Year)
+  - Core Focus: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Software Engineering.
+- 🎯 **Specialization Interest**: Natural Language Processing, Machine Learning Pipelines, and Data Science.
+
+---
+
+## 💡 Development Philosophy
+
+> *"Code should be clean, models should be rigorously evaluated, and software should deliver an intuitive experience."*
+
+- 📐 **Clean Architecture**: Structuring modular, documented Python code.
+- 📊 **Empirical Evaluation**: Measuring accuracy, precision, recall, and confusion matrix metrics before deploying models.
+- 🎨 **User-Centric Design**: Creating responsive interfaces (Streamlit/Web) for seamless interaction with AI systems.
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratnesh1007&show_icons=true&theme=radical&hide_border=true&title_color=a855f7&icon_color=a855f7" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh1007&theme=radical&hide_border=true&ring=a855f7&fire=a855f7" height="170"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ratnesh1007-181717?style=for-the-badge&logo=github)](https://github.com/Ratnesh1007)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetratnesh1007@gmail.com)
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh1007&layout=compact&theme=radical&hide_border=true&title_color=a855f7" height="165"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh1007&theme=react-dark&hide_border=true&area=true&color=a855f7" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ratnesh1007/Ratnesh1007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <p><i>Thanks for visiting my profile! Feel free to connect or drop a ⭐ on my repositories.</i></p>
+  <p><i>Thanks for visiting my profile! Feel free to explore my repositories or star ⭐ projects you like.</i></p>
 </div>
