@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/Ratnesh1007" width="160" style="border-radius:50%; border:4px solid #a855f7; box-shadow: 0 0 20px rgba(168, 85, 247, 0.6);" />
 
   # Hi 👋, I'm <span style="color: #a855f7;">Ratnesh Singh</span>
-  ### 🎓 3rd Year BTech CSE Student | Machine Learning & Full Stack Explorer
+  ### 🎓 4th Year BTech CSE Student | Machine Learning & Full Stack Explorer
 
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=24&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+NLP+Explorer;Full+Stack+%26+Python+Developer;Future+Data+Scientist;Java+%26+Backend+Enthusiast" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 ```yaml
 Developer Profile:
   Name: Ratnesh Singh
-  Degree: Bachelor of Technology - Computer Science & Engineering (3rd Year)
+  Degree: Bachelor of Technology - Computer Science & Engineering (4th Year)
   Location: India 🇮🇳
   Primary Stack: Python, Machine Learning, Java, Web Engineering
   Current Focus: Natural Language Processing (NLP) & Intelligent Web Apps
@@ -94,7 +94,7 @@ SQL & Relational Databases    [========================                ] 60%
 
 ## 🎓 Education & Learning Journey
 
-- 🏫 **B.Tech in Computer Science & Engineering** (3rd Year)
+- 🏫 **B.Tech in Computer Science & Engineering** (4th Year)
   - Core Focus: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Software Engineering.
 - 🎯 **Specialization Interest**: Natural Language Processing, Machine Learning Pipelines, and Data Science.
 
